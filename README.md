@@ -132,6 +132,17 @@ Ensure you have Python installed on your system. SQLite3 is included with Python
 
 Contributions are welcome! Fork this repository, create a new branch, and submit a pull request with your changes.
 
+## Contact with me for more works
+👨‍💻 All of my projects are available at https://mackystech.vercel.app/
+
+📝 I regularly write articles on https://www.linkedin.com/in/pankaj-kumar-647080266/
+
+💬 Ask me about Android , MERN , Flutter
+
+📫 How to reach me kumarpankaj85894@gmail.com
+
+📄 Know about my experiences https://www.linkedin.com/in/pankaj-kumar-647080266/
+
 ## License
 
 This project is licensed under the Macky's Tech License. See the LICENSE file for details.
